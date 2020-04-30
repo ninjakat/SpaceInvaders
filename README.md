@@ -26,3 +26,6 @@ The waves won't stop coming. Still, you need to defeat them as best as you can. 
 - K increases the difficulty
 
 Enter / Space also works in menus
+
+## Credits
+I've scavenged a ship model from https://www.turbosquid.com/3d-models/3d-free-scifi-1216479. The rest I did myself.
