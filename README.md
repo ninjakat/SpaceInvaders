@@ -29,3 +29,6 @@ Enter / Space also works in menus
 
 ## Credits
 I've scavenged a ship model from https://www.turbosquid.com/3d-models/3d-free-scifi-1216479. The rest I did myself.
+
+## Builds
+https://ninjakat.itch.io/yet-another-space-invaders
